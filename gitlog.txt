@@ -1,0 +1,47 @@
+commit ee65806ecfec5c377ffdeeabedf6406149969b62
+Author: unknown <markshonbeck@mymail.mines.edu>
+Date:   Thu Feb 18 17:44:25 2021 -0700
+
+    made one eye smaller
+
+commit 026aa24341d1f5bb95a2ab4477b59be93d4a5c11
+Author: JoshHatchet <joshbordick@gmail.com>
+Date:   Thu Feb 18 17:42:41 2021 -0700
+
+    Make head dimension twice as big and added a comment
+
+commit dad37e8c603e7ab1231cccacc674c9e89cebb6d7
+Author: unknown <markshonbeck@mymail.mines.edu>
+Date:   Thu Feb 18 17:41:09 2021 -0700
+
+    made mouth open
+
+commit f9e58345ba61c38bc4d9f65331524ae9e849d851
+Author: JoshHatchet <joshbordick@gmail.com>
+Date:   Thu Feb 18 17:38:52 2021 -0700
+
+    Change color of th cats eyes to cyan and added a comment
+
+commit dd588bda888c237ab40494410dce990b8672ccaf
+Author: unknown <markshonbeck@mymail.mines.edu>
+Date:   Thu Feb 18 17:37:11 2021 -0700
+
+    Changed meow to puurrrr
+
+commit 385a289b0576079f875d7a1e13d724c9e327a9ba
+Author: JoshHatchet <joshbordick@gmail.com>
+Date:   Thu Feb 18 17:34:51 2021 -0700
+
+    Changed the color of the cat to blue and added a comment
+
+commit bb628a2b731f682cf88d23b752e1ba495a0b8e95
+Author: unknown <markshonbeck@mymail.mines.edu>
+Date:   Thu Feb 18 17:30:48 2021 -0700
+
+    initial commit
+
+commit 49ab825ce7ea7c1bba5a6c9be56cc42ec16f4b86
+Author: JoshHatchet <71793900+JoshHatchet@users.noreply.github.com>
+Date:   Thu Feb 18 17:25:21 2021 -0700
+
+    Create .gitignore
